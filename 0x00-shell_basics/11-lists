@@ -1,0 +1,3 @@
+:wq!
+i#!/bin/bash
+ls -al . .. /boot
