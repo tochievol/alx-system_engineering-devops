@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 $ wc -1 script
+=======
+ls
+>>>>>>> 0b16d151e7d75b911711caa0253c8ac08671d823
